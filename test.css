@@ -1,0 +1,109 @@
+p{
+    font-size: 20px;
+}
+.container{
+    display: grid;
+    width: auto;
+    background-color: rgb(175, 176, 223);
+}
+.main{
+    font-size: 30px;
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    width: auto;
+    background-color: rgb(81, 224, 68);
+}
+.side{
+    font-size: 30px;
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 13;
+    grid-column-end: 18;
+    background-color: rgb(139, 117, 109);
+}
+.ddata2{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: rgb(111, 105, 112);
+}
+.ddata3{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 3;
+    grid-column-end: 6;
+    background-color: rgba(243, 82, 7, 0.897);
+}
+.ddata4{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 6;
+    grid-column-end: 9;
+    background-color: rgb(186, 120, 6);
+}
+.ddata5{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 9;
+    grid-column-end: 12;
+    background-color: rgb(144, 221, 68);
+}
+.ddata6{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 12;
+    grid-column-end: 15;
+    background-color: rgb(29, 134, 8);
+}
+.ddata7{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 15;
+    grid-column-end: 18;
+    background-color: rgb(144, 226, 231);
+}
+.ddata8{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: rgb(37, 183, 223);
+}
+.ddata9{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 3;
+    grid-column-end: 6;
+    background-color: rgb(0, 65, 115);
+}
+.ddata11{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 6;
+    grid-column-end: 9;
+    background-color: rgb(158, 59, 219);
+}
+.ddata12{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 9;
+    grid-column-end: 12;
+    background-color: rgb(204, 159, 206);
+}
+.ddata13{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 12;
+    grid-column-end: 15;
+    background-color: rgb(209, 1, 178);
+}
+.ddata14{
+    text-align:center;
+    border-radius: 30px;
+    grid-column-start: 15;
+    grid-column-end: 18;
+    background-color: rgb(219, 59, 59);
+}
